@@ -25,7 +25,7 @@ UI_20150317_000024	{@St41b}Precio Inicial
 UI_20150317_000025	{@St41b}Pujas
 UI_20150317_000026	{@St41b}Precio Actual
 UI_20150317_000027	{@St41b}Precio de Puja
-UI_20150317_000028	{@St41b}Minimum Bid Price from {@st57}%s{@st41b}Silver{/}
+UI_20150317_000028	{@St41b}Mínimo precio de Puja desde {@st57}%s{@st41b}Plata{/}
 UI_20150317_000029	{@St41b}Pujar{/}
 UI_20150317_000030	{@St43b}Comprar ahora!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_000031	{@St44}Ajuste de Permisos{/}
@@ -39,7 +39,7 @@ UI_20150317_000038	{@St49}Crear
 UI_20150317_000039	{@St49}Eliminar
 UI_20150317_000040	{@St44}Guardar{/}
 UI_20150317_000041	{@St44}Cancelar{/}
-UI_20150317_000042	{@St43}{s22}Hair Shop{/}
+UI_20150317_000042	{@St43}{s22}Tienda de Cabellos{/}
 UI_20150317_000043	{@st59}Peinado Anterior{/}
 UI_20150317_000044	{@St59}Peinado Siguiente{/}
 UI_20150317_000045	{@st41b} Cambio {s18} (requiere 100 iCoins) {/}
@@ -53,29 +53,29 @@ UI_20150317_000052	{@st59}Página siguiente{/}
 UI_20150317_000053	{@st47}%s apareció!
 UI_20150317_000054	{@st43}Marcador{/}
 UI_20150317_000055	Daño recibido
-UI_20150317_000056	Technique Bonus
-UI_20150317_000057	Evasion Bonus
+UI_20150317_000056	Bonificación de Técnica
+UI_20150317_000057	Bonificación de Evasión
 UI_20150317_000058	Clear Time
-UI_20150317_000059	Total Score
-UI_20150317_000060	{@st42}Elapsed Time
-UI_20150317_000061	10 minutes
-UI_20150317_000062	10 seconds
-UI_20150317_000063	{@st44}Complete
-UI_20150317_000064	{@st59}Close Vending Machine{/}
-UI_20150317_000065	{@st43}Buff Vending Machine
-UI_20150317_000066	Vending Machine Name
-UI_20150317_000067	{@st43}Register
-UI_20150317_000068	{@st43}Cancel
-UI_20150317_000069	Buff Vending Machine
-UI_20150317_000070	{@st59}Close the Buff Vending Machine.
-UI_20150317_000071	{@st59}Buff Vending Machine{nl} - You can pay silver to receive buffs from another player.
-UI_20150317_000072	Carriage Menu
-UI_20150317_000073	{ol}{s22}Disembark{/}
+UI_20150317_000059	Puntuación Total
+UI_20150317_000060	{@st42}Tiempo transcurrido
+UI_20150317_000061	10 minutos
+UI_20150317_000062	10 segundos
+UI_20150317_000063	{@st44}Completar
+UI_20150317_000064	{@st59}Cerrar Máquina Expendedora{/}
+UI_20150317_000065	{@st43}Máquina Expendedora de Buffs
+UI_20150317_000066	Nombre de la Máquina Expendedora
+UI_20150317_000067	{@st43}Registrar
+UI_20150317_000068	{@st43}Cancelar
+UI_20150317_000069	Máquina Expendedora de Buffs
+UI_20150317_000070	{@st59}Cerrar Máquina Expendedora de Buffs.
+UI_20150317_000071	{@st59}Máquina Expendedora de Buffs{nl} - Puedes pagar plata para recibir buffs de otro jugador.
+UI_20150317_000072	Menú de Transporte
+UI_20150317_000073	{ol}{s22}Desembarcar{/}
 UI_20150317_000074	Casting
-UI_20150317_000075	{@st43}Game Settings{/}
-UI_20150317_000076	{@st64}Use the arrow keys to select the cell!
+UI_20150317_000075	{@st43}Opciones de juego{/}
+UI_20150317_000076	{@st64}Usa las flechas para seleccionar la celda!
 UI_20150317_000077	{@st43}Advancement Information {/}
-UI_20150317_000078	{@st43}Select Class
+UI_20150317_000078	{@st43}Selecciona una Clase
 UI_20150317_000079	Psychokinesist
 UI_20150317_000080	{@st42}%s circle {/}
 UI_20150317_000081	How many circles
